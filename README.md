@@ -1,4 +1,4 @@
-# Cat vs Dog Image Classifier 🐱🐶
+# Cat vs Dog Image Classifier 
 
 A convolutional neural network (CNN) that classifies images as either **cat** or **dog**, trained on the [Kaggle Cats vs Dogs dataset](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset).
 
